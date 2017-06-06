@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "942403906928",
+    "firebase_url": "https://denuncias-7aeb2.firebaseio.com",
+    "project_id": "denuncias-7aeb2",
+    "storage_bucket": "denuncias-7aeb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942403906928:android:767f2eaca2a8f20e",
+        "android_client_info": {
+          "package_name": "com.example.adonis.mediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942403906928-ari8ik9d4irup0to9k0p4hkkm8shn4h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUeok9nTXrbGcoUiwyL9mRz8B1KA70kOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
